@@ -1,7 +1,7 @@
-Encounter Template
-==================
+Creating Learning Encounters
+============================
 
-Basic template to create learning encounters with Reveal.js.
+This learning encounter provides instructions for creating learning encounters with Reveal.js, Git, and GitHub.
 
 
 The content of this repository is copyrighted by contributors and it is distributed under the following licenses.
@@ -11,26 +11,25 @@ All software is licensed under the Apache 2.0 License.
 All Works of Art are licensed under the Creative Commons by Attribution 4.0 License.
 
 
-
 Current Author
 ==============
 
-INSERT AUTHOR NAME HERE
+M. Alexander Jurkat
 
 
 Abstract
 ========
 
-Insert your abstract here
+This learning encounter provides step-by-step instructions for creating learning encounters using Reveal.js, Git, and GitHub.
 
 
 Keywords
 ========
 
-Insert keywords here, to make easier to search for content
+Reveal.js, Git, GitHub, creating, learning encounter
 
 
 Credits
 =======
 
-Insert contributors here and credits
+Luis Ibanez
